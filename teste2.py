@@ -76,7 +76,7 @@ gestor = introducao_usuario()
 # Coletando informações do evento
 nome_evento = input("Digite o nome do evento: ")
 local_evento = input("Digite o local do evento: ")
-data_evento = input("Digite a data do evento (AAAA-MM-DD): ")
+data_evento = input("Digite a data do evento (DD/MM/AAAA): ")
 participantes_evento = int(input("Digite o número de participantes: "))
 estrategias_evento = [
     'Coleta seletiva',
