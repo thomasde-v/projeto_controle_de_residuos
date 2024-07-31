@@ -37,4 +37,4 @@ Este projeto está licenciado sob a Licença Privada. Veja o arquivo LICENSE par
 
 ---
 
-© 2024 [José Thomas Santos Lupicinio]. Todos os direitos reservados.
+© 2024 José Thomas Santos Lupicinio. Todos os direitos reservados.
