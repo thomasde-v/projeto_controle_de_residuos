@@ -93,7 +93,7 @@ tk.Label(root, text="Local do Evento:", bg="#e0f7fa", font=("Arial", 12)).grid(r
 entry_local = tk.Entry(root, font=("Arial", 12))
 entry_local.grid(row=1, column=1, padx=10, pady=5)
 
-tk.Label(root, text="Data do Evento (AAAA-MM-DD):", bg="#e0f7fa", font=("Arial", 12)).grid(row=2, column=0, padx=10, pady=5, sticky="w")
+tk.Label(root, text="Data do Evento (DD/MM/AAAA):", bg="#e0f7fa", font=("Arial", 12)).grid(row=2, column=0, padx=10, pady=5, sticky="w")
 entry_data = tk.Entry(root, font=("Arial", 12))
 entry_data.grid(row=2, column=1, padx=10, pady=5)
 
