@@ -31,7 +31,7 @@ O objetivo principal do projeto é fornecer uma ferramenta que ajude organizador
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## 📜 Licença
+## 📜 Licença 
 
 Este projeto está licenciado sob a Licença Privada. Veja o arquivo LICENSE para mais detalhes.
 
