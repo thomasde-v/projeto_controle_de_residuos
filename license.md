@@ -11,10 +11,6 @@ O autor detém todos os direitos sobre este código. Qualquer uso, modificação
 - **Uso Pessoal**: O código pode ser utilizado para fins pessoais e não comerciais.
 - **Uso Comercial**: Qualquer uso comercial deste código deve ser autorizado pelo autor.
 
-## 🚫 Proibições
-
-- **Redistribuição**: Não é permitida a redistribuição deste código sem a permissão expressa do autor.
-- **Modificação**: Não é permitida a modificação deste código sem a permissão expressa do autor.
 
 ## 📧 Contato
 
