@@ -22,4 +22,4 @@ Para obter permissão para usar, modificar ou distribuir este código, entre em 
 
 ---
 
-© 2024 [José Thomás]. Todos os direitos reservados.
+© 2024 José Thomás Santos Lupicinio. Todos os direitos reservados.
